@@ -21,7 +21,7 @@ TOKEN = "your-personal-access-token"  # Needs 'repo' + 'delete_repo' scopes
 ## 🚀 Run
 
 ```bash
-python github_repo_cleaner.py
+python REPOBlast.py
 ```
 
 Select what dies:
